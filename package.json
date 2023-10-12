@@ -1,0 +1,20 @@
+{
+  "name": "star_eater_phaser_3",
+  "version": "0.0.1",
+  "description": "Phaser 3 TypeScript Starter",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "serve": "vite preview"
+  },
+  "author": "Jon Modell",
+  "license": "MIT",
+  "devDependencies": {
+
+    "typescript": "^4.6.4",
+    "vite": "^2.9.13"
+  },
+  "dependencies": {
+    "phaser": "^3.60.0"
+  }
+}
